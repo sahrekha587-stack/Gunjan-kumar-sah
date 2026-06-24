@@ -1,0 +1,6 @@
+{
+  "name": "Game Zone",
+  "description": "A polished multi-game arcade featuring Tic Tac Toe, Memory match, and a 15-Puzzle with local highscore persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
